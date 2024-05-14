@@ -1,0 +1,15 @@
+website/
+├── app.py (Your main Flask application file)
+├── venv/ (Your virtual environment directory)
+├── templates/
+│   ├── index.html
+│   ├── about.html
+│   └── ... (other template files for your portfolio)
+└── static/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js (optional)
+    └── images/
+        └── logo.png
+        └── ... (other static files)
