@@ -4,30 +4,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{% endblock %}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-
+    <title>HassanAmirii.me</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <nav class="navbar">
         <ul>
-            <li><a href="{{ url_for('index') }}">Home</a></li>
-            <li><a href="{{ url_for('about') }}" class="">About</a></li>
-            <li><a href="{{ url_for('experience') }}" class="">Experience</a></li>
-            <li><a href="{{ url_for('projects') }}" class="">Projects</a></li>
-            <li><a href="mailto:hassanamiri.ai@gmail.com"><i class="fab fa-envelope"></i> Email</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="experience.html" class="">Experience</a></li>
+            <li><a href="projects.html" class="">Projects</a></li>
+            <li><a href="mailto:hassanamiri.ai@gmail.com?subject=Hello&body=Hi Hassan,"><i class="fab fa-envelope"></i> say hi </a></li>
             <li><a href="https://www.linkedin.com/in/hassan-amiri-7a3b53304/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
             <li><a href="https://github.com/HassanAmirii"><i class="fab fa-github"></i> GitHub</a></li>
         </ul>
     </nav>
-    <h1>hello there i'm hassan amirri </h1>
+    <h1>hello there i'm hassan amiri :?</h1>
     <hr>
     <p>
         I'm a budding software engineer from lagos, Nigeria. I'm fascinated by large-scale, high-impact products and currently developing my skills before i get to colledge!
     </p>
     <p>hope i get admission to school this year :)</p>
     <p> still building this portfolio btw just not important right now !</p>
-    <hr> {% block body %}{% endblock %} </body>
+
+    <br>
+
+    <h1>about/me</h1>
+
+    <p>
+        I'm currently working on Python , flask , sqlalchemy etc and have plans to explore other languages such as Java, etc. Additionally, I'm eager to delve into various Python libraries for web scraping, </p>
+
+    <p>
+        AI/ML, cloud computing, and more to broaden my tech stack. Currently, I'm diving deeper into Python and exploring its various frameworks.
+    </p>
+
+    <p>
+        Additionally, I'm enhancing my mathematical skills by studying calculus, linear algebra, and other computer science-related topics.
+    </p>
+    <hr>
+    <footer id="footer">
+        <p>built by Hassan amiri</p>
+        <p>lmao all rights reserved.&copy; 2024</p>
+    </footer>
+
+</body>
 
 </html>
