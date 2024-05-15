@@ -1,9 +1,33 @@
-{% extends "base.html" %} {% block title %} HassanAmirii.me {% endblock %} {% block body %}
-<h1>hello there i'm hassan amirri </h1>
-<hr>
-<p>
-    I'm a budding software engineer from lagos, Nigeria. I'm fascinated by large-scale, high-impact products and currently developing my skills before i get to colledge!
-</p>
-<p>hope i get admission to school this year :)</p>
-<p> still building this portfolio btw just not important right now !</p>
-<hr> {% endblock %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="{{ url_for('index') }}">Home</a></li>
+            <li><a href="{{ url_for('about') }}" class="">About</a></li>
+            <li><a href="{{ url_for('experience') }}" class="">Experience</a></li>
+            <li><a href="{{ url_for('projects') }}" class="">Projects</a></li>
+            <li><a href="mailto:hassanamiri.ai@gmail.com"><i class="fab fa-envelope"></i> Email</a></li>
+            <li><a href="https://www.linkedin.com/in/hassan-amiri-7a3b53304/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+            <li><a href="https://github.com/HassanAmirii"><i class="fab fa-github"></i> GitHub</a></li>
+        </ul>
+    </nav>
+    <h1>hello there i'm hassan amirri </h1>
+    <hr>
+    <p>
+        I'm a budding software engineer from lagos, Nigeria. I'm fascinated by large-scale, high-impact products and currently developing my skills before i get to colledge!
+    </p>
+    <p>hope i get admission to school this year :)</p>
+    <p> still building this portfolio btw just not important right now !</p>
+    <hr> {% block body %}{% endblock %} </body>
+
+</html>
