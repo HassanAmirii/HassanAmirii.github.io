@@ -1,9 +1,10 @@
 body {
-    background-color: #0e203f;
+    background-color: black;
     padding-left: 4%;
     padding-right: 4%;
     padding-top: 10%;
     padding-bottom: 10%;
+    margin-bottom: 0%;
 }
 
 .logo {
@@ -35,6 +36,12 @@ body {
     line-height: 69px;
 }
 
+.full-stack {
+    font-size: 30px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
 .main-content {
     margin-top: 0%;
     color: rgb(204, 214, 246);
@@ -47,13 +54,16 @@ body {
     padding-bottom: 40px;
     text-size-adjust: 100%;
     opacity: 0.6;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
 }
 
 .about-me {
     text-align: left;
-    margin-bottom: 16%;
+    margin-bottom: 14%;
     color: white;
     font-family: NTR, sans-serif;
+    opacity: 0.8;
 }
 
 .about-me-content {
@@ -90,6 +100,24 @@ body {
     opacity: 0.9;
     line-height: 27px;
     margin-bottom: 50%;
+}
+
+.button-div {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.mail-button {
+    color: rgb(157, 162, 182);
+    border: none;
+    color: rgb(0, 255, 195);
+    border-style: solid;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+    border-radius: 6px 6px;
+    background-color: black;
 }
 
 #footer {
