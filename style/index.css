@@ -7,6 +7,15 @@ body {
     margin-bottom: 0%;
 }
 
+p {
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+.extra {
+    margin-top: 6%;
+}
+
 .logo {
     background-color: rgba(0, 0, 0, 0);
     color: rgb(204, 214, 246);
@@ -84,10 +93,12 @@ body {
 }
 
 .technologies {
-    display: block;
+    display: inline-block;
     color: rgb(157, 162, 182);
     font-family: NTR, sans-serif;
     opacity: 0.9;
+    margin-left: 0%;
+    width: 150px;
 }
 
 .technologies li {
