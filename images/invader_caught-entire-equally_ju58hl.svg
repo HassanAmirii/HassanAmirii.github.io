@@ -1,0 +1,75 @@
+<svg viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg" style="--invader-width: 13;" class="invader--animate">
+<!-- https://muffinman.io/invaders/#/size:6/main-seed:caught-entire-equally/gap:0.05/split:2.75/line-thickness:0.61,0.72,0.34,0.6/color:people-grown-sets/eyes:sunlight-lost-buffalo/animate:true/flip:false/show-grid:false/debug:false -->
+<g class="invader-pixels-wrapper"><g class="invader-pixels" fill="oklch(0.59 0.43 285)">
+
+
+
+<rect x="61.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="61.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="61.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="81.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="81.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="81.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="81.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="101.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="101.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="101.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="101.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="101.00" y="121.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="121.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="121.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="121.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="121.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="121.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="141.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="141.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="141.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="141.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="141.00" y="121.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="161.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="161.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="161.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="161.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="181.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="181.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="181.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+
+
+
+</g><g class="invader-pixels" fill="oklch(0.59 0.43 285)">
+
+
+<rect x="301.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="321.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="321.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="321.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="321.00" y="121.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="341.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="341.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="341.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="341.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="361.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="361.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="361.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="361.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="381.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="381.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="381.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="381.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="381.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="401.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="401.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="401.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="401.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="421.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="421.00" y="41.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="421.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="421.00" y="101.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="441.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="441.00" y="61.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--z"></rect>
+<rect x="441.00" y="81.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--x"></rect>
+<rect x="441.00" y="121.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+<rect x="461.00" y="21.00" width="18.00" height="18.00" class="invader-pixel invader-pixel--l"></rect>
+
+
+</g></g></svg>
